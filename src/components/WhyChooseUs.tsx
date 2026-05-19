@@ -48,7 +48,7 @@ const WhyChooseUs = () => {
               style={{ fontFamily: "'Poppins', sans-serif" }}>
               Why Choose <br />
               <span className="text-transparent bg-clip-text" style={{ backgroundImage: "linear-gradient(135deg, hsl(32 93% 54%), hsl(32 93% 54%))" }}>
-                OneCapital Loans
+                Cashnettusa Loans
               </span>
             </h2>
             

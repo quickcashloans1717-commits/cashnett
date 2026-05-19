@@ -6,7 +6,7 @@ import testimonial2 from "@/assets/testimonial-2.jpg";
 import testimonial3 from "@/assets/testimonial-3.jpg";
 
 const testimonials = [  {
-    quote: "OneCapital Loans made the entire process so easy. I was approved in 15 minutes and the funds were in my account the very next morning. It really saved our family vacation!",
+    quote: "Cashnettusa Loans made the entire process so easy. I was approved in 15 minutes and the funds were in my account the very next morning. It really saved our family vacation!",
     name: "Jessica Martinez",
     title: "Personal Loan Customer",
     image: testimonial1,
